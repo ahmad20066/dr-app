@@ -10,6 +10,12 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need to take a pic</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We need to take a pic</key>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need to record</string>
 	<key>CFBundleName</key>
 	<string>doctor_app</string>
 	<key>CFBundlePackageType</key>
